@@ -23,7 +23,7 @@ Developed in the Java programming language through NetBeans.
 <li>(1) Main Display</li>
 <li>(2) Program Moniter</li>
 <li>(C button) Clear All Calculations and Displays</li>
-<li>(<E button) Backspace numbers</li>
+<li>(&lt;E button) Backspace numbers</li>
   
 <h2>Path Of Project File</h2>
 <img src="img/projectFile.png" >
