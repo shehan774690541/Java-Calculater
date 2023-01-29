@@ -18,11 +18,16 @@ Developed in the Java programming language through NetBeans.
 <br><hr><br>
 
 
-<li></li>
-<li></li>
-<li></li>
+<h2>Parts Of calculater</h2><br>
+<img src="img/desktopParts.png" >
+<li>(1) Main Display</li>
+<li>(2) Program Moniter</li>
+<li>(C button) Clear All Calculations and Displays</li>
+<li>(<E button) Backspace numbers</li>
+  
+<h2>Path Of Project File</h2>
+<img src="img/projectFile.png" >
 
-calculater.png
-desktop.png
-projectFile.png
+
+
 
