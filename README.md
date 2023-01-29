@@ -13,12 +13,16 @@ Developed in the Java programming language through NetBeans.
 <li>Open calculator.java in calPac in Source Packages in num_cal</li>
 <li>After that, you can open it with F6 if you don't want to run</li>
 
-
+<br>
+<img src="img/desktop.png" >
+<br><hr><br>
 
 
 <li></li>
 <li></li>
 <li></li>
 
-
+calculater.png
+desktop.png
+projectFile.png
 
