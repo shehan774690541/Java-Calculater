@@ -12,6 +12,10 @@ Developed in the Java programming language through NetBeans.
 <li>After that, open this project through NetMeans</li>
 <li>Open calculator.java in calPac in Source Packages in num_cal</li>
 <li>After that, you can open it with F6 if you don't want to run</li>
+
+
+
+
 <li></li>
 <li></li>
 <li></li>
